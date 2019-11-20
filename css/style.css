@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+body {
+  position: relative;
+}
+.header-top {
+  background-color: rgba(30, 65, 144, 0.97);
+  height: 440px;
+  background-position: center;
+}
+img {
+  height: 440px;
+  width: 90%;
+  margin-left: 20%;
+}
+.liste-item nav ul{
+  position: absolute;
+  top: 30px;
+  color: #fff;
+}
+.liste-item nav ul li {
+  display: inline-block;
+  margin-left: 30px;
+}
+
+
+.title {
+  position: absolute;
+  top: 130px;
+  color: white;
+  height: 40px;
+  width: 25%;
+  margin-left: 75px;
+  font-size: 35px;
+}
