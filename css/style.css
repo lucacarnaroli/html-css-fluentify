@@ -42,6 +42,7 @@ img {
 }
 .login:hover {
   background-color: rgba(217, 101, 65, 0.93);
+  cursor: pointer;
 }
 .piano {
   border-radius: 6px;
@@ -50,6 +51,7 @@ img {
 }
 .piano:hover {
   background-color: rgba(55, 219, 91, 0.93);
+  cursor: pointer;
 }
 .nav-dx {
   float: right;
@@ -127,7 +129,18 @@ img {
   border-radius: 6px;
   padding: 8px;
   color: #fff;
+  margin-bottom: 20px;
 }
 .tuo-piano:hover {
   background-color: rgba(55, 219, 91, 0.93);
+  cursor: pointer;
+}
+.ok {
+
+}
+.help {
+  float: right;
+  margin-top: 122px;
+  background-color: green;
+
 }
